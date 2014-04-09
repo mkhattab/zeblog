@@ -25,3 +25,6 @@ DEFAULT_PAGINATION = False
 PLUGIN_PATH = 'pelican-plugins'
 
 THEME = 'theme'
+
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'}}
