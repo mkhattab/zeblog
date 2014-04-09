@@ -14,7 +14,6 @@ SITEURL = 'http://mustafakhattab.com'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
