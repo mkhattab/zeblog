@@ -1,6 +1,3 @@
-[submodule "output"]
-	path = output
-	url = git@github.com:mkhattab/mkhattab.git
 [submodule "plugins/dynamic"]
 	path = plugins/dynamic
 	url = git@github.com:wrobstory/pelican_dynamic.git
