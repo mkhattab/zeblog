@@ -12,17 +12,14 @@ usually I'm writing
 endlessly customizing my Emacs configuration --- which is quite normal
 for Emacsers.
 
-Most of work is spent doing freelance web development; Python, Django
-and Flask. Also, I'm quite passionate about
-[FreeSWITCH](http://freeswitch.org/) and VOIP. I've built several
-sites integrating web applications with FreeSWITCH via
-[Plivo](https://plivo.com/open-source/), implementing features such as
-click-to-call, web phone (via Flash RTMP), real-time billing, etc.
+Also, I'm quite passionate about [FreeSWITCH](http://freeswitch.org/)
+and VOIP. I've built several sites integrating web applications with
+FreeSWITCH via [Plivo](https://plivo.com/open-source/), implementing
+features such as click-to-call, web phone (via Flash RTMP), real-time
+billing, etc.
 
 You can contact me via:
 
-* [me@mustafakhattab.com](mailto:me@mustafakhattab.com) --- please
-  make sure your mail host has SPF, DKIM records or else your message
-  will definitely end up in my spam folder.
+* [me@mustafakhattab.com](mailto:me@mustafakhattab.com)
 * [twitter](https://twitter.com/khattabm)
 * [github](https://github.com/mkhattab) or [bitbucket](https://bitbucket.org/mkhattab)
